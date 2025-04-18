@@ -42,7 +42,7 @@ This project is a secure, containerized microservice for user authentication bui
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR-USERNAME/CTSE-Assignment-1
+git clone https://github.com/Y3S1-GRP22/CTSE-Assignment-1
 
 # Navigate into the project
 cd CTSE-Assignment-1
