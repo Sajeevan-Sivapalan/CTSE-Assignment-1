@@ -37,7 +37,7 @@ This project is a secure, containerized microservice for user authentication bui
 - **Snyk** (Security Testing)
 
 ---
-
+ 
 ## 🛠️ Setup Instructions
 
 ```bash
