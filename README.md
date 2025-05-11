@@ -16,7 +16,7 @@ This project is a secure, containerized microservice for user authentication bui
 - 🔍 Security scanning with **Snyk**
 
 ---
-
+ 
 ## 🧪 API Endpoints
 
 | Method | Endpoint         | Description               |
